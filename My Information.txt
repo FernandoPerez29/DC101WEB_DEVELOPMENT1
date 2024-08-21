@@ -1,0 +1,8 @@
+Name: Fernando Jr T. Perez
+CYS: BSCS2E
+Subject: DC101 Web Development 
+Instructor: Engr. John Eugene D. Fortunado
+Birthday: March 23, 2003
+Age: 21
+Address: Molave St. Sabang Lipa City
+Contact Number: 09553917734
